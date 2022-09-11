@@ -1,0 +1,17 @@
+N1 = print ("  digite um numero:  ")
+N1 = leia( )
+P1 = print  ("  digite o peso:  ")
+P1 = leia( )
+N2 = print ("  digite um numero:  ")
+N2 = leia( )
+P2 = print ("  digite o peso:  ")
+P2 = leia( )
+N3 = print ("  digite um numero:  ")
+N3 = leia( )
+P3 = print ("  digite o peso:  ")
+P3 = leia( )
+somap = (P1+P2+P3)
+mediap = (N1*N1) + (N2*N2) + (N3*N3)
+digite ("  mp e:  " + mediap) 
+
+

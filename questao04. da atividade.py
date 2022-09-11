@@ -1,0 +1,6 @@
+sal = print ("  informe seu sal:  ")
+sal = leia ( )
+sal = print  ("  informe seu sal:  ")
+sal = leia ( )
+sal total = (sal * 1,25)
+digite ("  seu sal sera de:   " sal total)

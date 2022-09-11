@@ -1,0 +1,8 @@
+print = ("  digite seu ano de nacimento:  ")
+naci = leia( )
+print ("  digite em qual ano voce esta:  ")
+anoAtual = leia( )
+idade = (naci-anoAtual)
+sub = (2050-anoAtual)
+print = ("  a sua idade e:  " + sub)
+print = ("  em 2050 sua idade sera:  " + sub)

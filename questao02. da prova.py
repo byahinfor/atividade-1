@@ -1,0 +1,6 @@
+print = ("  digite um numero maior que zero:  ")
+N1 = leia( )
+print = ("  digite outro numero maior que zero:  ")
+N2 = leia ( )
+result = (N1 ¹ N2)
+print = ("  seu resultado e:  " + result)

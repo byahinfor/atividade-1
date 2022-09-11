@@ -1,0 +1,6 @@
+print = ("  digite um numero:  ")
+N1 = leia( )
+print = ("  digite outro numero:  ")
+N2 = leia( )
+result = (N1-N2)
+print = ("  suasubtracao e:  " + result)
